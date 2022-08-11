@@ -10,5 +10,6 @@ public class Actitime_1Test  extends Basetest{
 	public void logoff() {
 		driver.get("https://www.pepsi.com");
 		driver.get("https://www.redbus.com");
+		driver.get("https://www.bingo.com");
 	}
 }
